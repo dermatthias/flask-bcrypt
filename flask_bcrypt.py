@@ -8,8 +8,6 @@
     :license: BSD, see LICENSE for more details.
 '''
 
-from __future__ import absolute_import
-
 __version_info__ = ('0', '5', '3')
 __version__ = '.'.join(__version_info__)
 __author__ = 'Max Countryman'
